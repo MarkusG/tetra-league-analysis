@@ -1,10 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-rank_index = {
-    'd': 16
-}
-
 df_rank_mapping = pd.DataFrame({
     'rank': [
         'x',
